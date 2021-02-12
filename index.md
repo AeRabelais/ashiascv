@@ -54,12 +54,12 @@ Co-Author of the following publication: _Field Induced Uniaxial Anisotropy in Fe
 _University of Alabama - Tuscaloosa, AL_ <br>
 
 Primary Author of the following publication: _Intelligence Dexterity Measure Models through Classical Training in Madagascar Hissing Cockroaches_ <br>
--Responsible for:
+- Responsible for:
   - defining thesis and creating experimental procedure
   - using Pavlovian training techniques and measuring the intellectual dexterity of Madagascar Hissing Cockroaches
   - modelling results using ML techniques and sensory equipment
   
- -Primary Toos: Python, ImageJ
+ - Primary Toos: Python, ImageJ
 
 
 **David Matthews Center Intern** _(May 2019 - August 2019)_ <br>
