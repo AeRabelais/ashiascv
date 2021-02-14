@@ -17,8 +17,8 @@ _Wandering student (sometimes) studying Physics, Biology, and Chemistry at the U
 
 ## 🏆 Awards and Honors
 
-**APS Innovation Fund Recipient** _( Aug 2018)_ <br>
-Received the most selective funding award offered by the American Society of Physics. 
+**APS Student Fund Recipient** _( Aug 2018)_ <br>
+Received the most selective funding award offered to student researchers by the American Society of Physics. 
 
 **NSF Human and Environment Research Grant Recipient** _(Sep 2019)_ <br>
 Received grant funding to conduct research on the relationship between non-human animals, environmental shift, and human health metrics.
